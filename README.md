@@ -60,4 +60,4 @@ nimesh@matrix:~$ echo $STATUS
 </p>
 
 ---
-<p align="center"><sub>// README.md · nimeshlak26 · dark mode recommended 🖤 //</sub></p>
+
